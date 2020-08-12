@@ -2,7 +2,7 @@ Config              = {}
 Config.DrawDistance = 100
 Config.Size         = {x = 1.5, y = 1.5, z = 1.5}
 Config.Color        = {r = 0, g = 128, b = 255}
-Config.Type         = 1
+Config.Type         = 27
 Config.Locale       = 'br'
 
 --Config.Map = {
@@ -46,7 +46,8 @@ Config.Zones = {
    Disco = {
         Items = {cocacola, fanta},
         Pos = {
-            {x = 436.3,   y = -986.72,  z = 30.00}
+            {x = 436.3,   y = -986.72,  z = 29.70}
         }
     }
 }
+
